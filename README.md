@@ -1,4 +1,4 @@
-# ML-using-Random-Forest
+# Air Quality Analysis and Vegetation Recommender
 Topic-Optimizing urban green spaces for improved air quality and health
 <br>
 1. Problem Statement- <br>
