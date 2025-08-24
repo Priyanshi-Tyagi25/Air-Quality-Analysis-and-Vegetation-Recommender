@@ -68,5 +68,8 @@ through optimized use of green spaces.<br><br>
 ❖ Future Improvements:<br>
 - Incorporating real-time data for continuous learning and continuous updation.<br>
 - Expanding to a broader dataset covering multiple regions and cities<br>
+  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Priyanshi-Tyagi25/Air-Quality-Analysis-and-Vegetation-Recommender/main?labpath=Air%20Quality%20Analysis%20and%20Vegetation%20Recommender.ipynb)
+
 
          
