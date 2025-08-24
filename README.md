@@ -1,7 +1,7 @@
 # Air Quality Analysis and Vegetation Recommender
 Topic-Optimizing urban green spaces for improved air quality and health
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Priyanshi-Tyagi25/Air-Quality-Analysis-and-Vegetation-Recommender/main?labpath=Air%20Quality%20Analysis%20and%20Vegetation%20Recommender.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Priyanshi-Tyagi25/Air-Quality-Analysis-and-Vegetation-Recommender/blob/main/Air%20Quality%20Analysis%20and%20Vegetation%20Recommender.ipynb)
 <br>
 1. Problem Statement- <br>
         With rapid urbanization, cities are becoming more congested, leading to increased pollution, 
