@@ -1,6 +1,7 @@
 # Air Quality Analysis and Vegetation Recommender
 Topic-Optimizing urban green spaces for improved air quality and health
 
+Click here to open in Google Colab and try the interactive sliders and drop-down list:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Priyanshi-Tyagi25/Air-Quality-Analysis-and-Vegetation-Recommender/blob/main/Air%20Quality%20Analysis%20and%20Vegetation%20Recommender.ipynb)
 <br>
 1. Problem Statement- <br>
